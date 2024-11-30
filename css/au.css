@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+#AUmain{
+    width: 950px;
+    margin: auto;
+    color: #fff;
+    padding: 20px 0;
+}
